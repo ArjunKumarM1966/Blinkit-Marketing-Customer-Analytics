@@ -10,7 +10,7 @@ This project analyzes Blinkit's marketing campaigns, customer orders, delivery p
 - What % of customers are repeat buyers vs one-time?
 - Is marketing-reported revenue consistent with actual order revenue?
 
-The goal was to go from raw multi-table data → cleaned relational data → SQL business analysis → Python EDA → interactive Power BI dashboard**.
+The goal was to go from raw multi-table data → cleaned relational data → SQL business analysis → Python EDA → interactive Power BI dashboard.
 
 ## 🗂️ Dataset
 6 related tables (~5,000–5,400 rows each):
