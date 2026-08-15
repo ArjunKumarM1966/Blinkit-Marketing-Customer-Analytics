@@ -1,6 +1,15 @@
 # Blinkit Marketing & Customer Analytics
 End-to-end data analytics project on Blinkit's marketing performance, customer orders, and delivery operations — using **SQL** for data querying, **Python (Pandas/Seaborn)** for exploratory analysis, and **Power BI** for interactive dashboards.
 
+## 📊 Dashboard Preview
+
+### Page 1 – Sales & Operations Overview
+![Sales & Operations Overview](blinkit%20dashboard%20page%201.png)
+
+### Page 2 – Marketing Performance & Campaign ROI
+![Marketing Performance](blinkit%20dashboard%20page%202.png)
+
+
 ## 📌 Project Overview
 This project analyzes Blinkit's marketing campaigns, customer orders, delivery performance, and customer feedback to answer key business questions like:
 
