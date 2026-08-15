@@ -104,6 +104,9 @@ Blinkit-Marketing-Customer-Analytics/
 │   └── marketing_performance_roi.png
 └── README.md
 
+'''
+
+
 ## 🚀 How to Use
 
 1. Run `Blinkit_SQL_Analysis.sql` on MySQL to recreate the schema & explore business queries.
